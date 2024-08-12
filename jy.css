@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    font: size 50px;;
+}
+body{
+    background-image: "T1.jpg";
+}
+img{
+    border-style: dotted;
+    border-color: black;
+}
+a{
+    text-decoration: none;
+    size: 50px;
+    text-align: center;
+    pointer-events: painted;
+}
+th{
+    color:rgb(0, 153, 255);
+}
+    
